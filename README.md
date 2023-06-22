@@ -12,4 +12,4 @@
 2. EDA
 3. Deal with NaN values
 4. Create Dummies if necessary
-5. Run Regressions **[Regressions]**
+5. Run Regressions [Regressions]
